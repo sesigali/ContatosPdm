@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866811836436",
+    "project_id": "contatospdmbackend2023eduardo",
+    "storage_bucket": "contatospdmbackend2023eduardo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866811836436:android:f0a29e17a1c215baf88f01",
+        "android_client_info": {
+          "package_name": "br.edu.scl.ifsp.ads.contatospdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdgic0FqfJ5Rw0uRlSdLPoLONkJiwOdr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
