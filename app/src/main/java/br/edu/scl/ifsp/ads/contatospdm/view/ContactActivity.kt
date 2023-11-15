@@ -44,7 +44,7 @@ class ContactActivity : AppCompatActivity() {
         with (acb) {
             saveBt.setOnClickListener {
                 val contact: Contact = Contact(
-                    id = receivedContact?.id,
+                    id = receivedContact?.id ?: generateId(),
                     name = acb.nameEt.text.toString(),
                     address = acb.addressEt.text.toString(),
                     phone = acb.phoneEt.text.toString(),
