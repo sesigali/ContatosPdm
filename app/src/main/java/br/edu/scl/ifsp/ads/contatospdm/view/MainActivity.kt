@@ -51,8 +51,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         const val GET_CONTACTS_MSG = 1
-        const val GET_CONTACTS_INTERVAL = 2000
-
+        const val GET_CONTACTS_INTERVAL = 2000L
     }
 
     //Handler
